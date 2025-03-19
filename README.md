@@ -1,3 +1,15 @@
+
+# Omnifood - Fictional Startup Landing Page
+
+
+Omnifood is a responsive landing page for a fictional food delivery startup, designed and developed as a personal learning project to practice and enhance my HTML, CSS, and JavaScript skills.
+
+🚀 Live Demo
+
+You can view the live version of this project here:
+
+🔗 https://omnifood-georgeb.netlify.app/
+
 📌 Technologies Used
 
 HTML5 – Semantic structure and clean markup
@@ -31,6 +43,8 @@ Explore basic JavaScript functionality and DOM manipulation
 Improve my understanding of modern web design principles
 
 📸 Screenshot
+
+
 
 🛠️ Setup & Installation
 
