@@ -3,14 +3,13 @@
 
 
 Omnifood is a responsive landing page for a fictional food delivery startup, designed and developed as a personal learning project to practice and enhance my HTML, CSS, and JavaScript skills.
-
-🚀 Live Demo
+# Live Demo
 
 You can view the live version of this project here:
 
 🔗 https://omnifood-georgeb.netlify.app/
 
-📌 Technologies Used
+# Technologies Used
 
 HTML5 – Semantic structure and clean markup
 
@@ -18,7 +17,7 @@ CSS3 – Modern styling techniques, responsive design, Flexbox, CSS Grid
 
 JavaScript – Interactive navigation and basic UI interactions
 
-🎯 Project Features
+# Project Features
 
 Responsive and mobile-friendly design
 
@@ -30,7 +29,7 @@ Attractive and modern UI components
 
 Optimized for performance and accessibility
 
-💻 Learning Objectives
+# Learning Objectives
 
 This project was built primarily to:
 
@@ -41,9 +40,6 @@ Strengthen my skills in HTML and CSS, focusing on responsive layouts
 Explore basic JavaScript functionality and DOM manipulation
 
 Improve my understanding of modern web design principles
-
-📸 Screenshot
-
 
 
 🛠️ Setup & Installation
@@ -60,7 +56,7 @@ cd omnifood
 
 Open the index.html file in your browser to view the project.
 
-📄 License
+#License
 
 This project is open source and available for educational purposes.
 
